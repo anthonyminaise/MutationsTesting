@@ -1,5 +1,5 @@
 package mutate;
-/* Java program for Merge Sort */
+/* Java program for Merge Sort from http://www.geeksforgeeks.org/merge-sort/*/
 class MergeSort
 {
 	// Merges two subarrays of arr[].
@@ -103,4 +103,3 @@ class MergeSort
 		printArray(arr);
 	}
 }
-/* This code is contributed by Rajat Mishra */
